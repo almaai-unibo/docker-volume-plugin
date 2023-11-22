@@ -3,8 +3,8 @@
 
 ### Installation from repository
 ```bash
-git clone git@github.com:almaai-unibo/ascend-npu-image.git
-cd ascend-npu-image/
+git clone git@github.com:almaai-unibo/docker-volume-plugin.git
+cd docker-volume-plugin/
 make all
 ```
 
